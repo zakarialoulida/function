@@ -19,7 +19,7 @@ int main()
     }
     printf("%f",s);
     float moy=(s/(nbr+1));
-    printf("la moyenne est:%f",moy);
+    printf("la moyenne est:%.2f",moy);
 
 
     return 0;
